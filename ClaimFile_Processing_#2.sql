@@ -7,7 +7,7 @@ Greeshma				12/29/2020				Created - to auto run claims files posted
 												on the FTP folder. 
 ***************************************************************************************/
 		
-	
+	--Branch1 Change made at 10:33AM
 		--837_1 -->
 	DECLARE @counter as int = 0
 	DECLARE @maxId as int = 0
